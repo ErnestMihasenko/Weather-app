@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Weather app
+
+  Created by Ernest Mihasenko on 24.08.22.
+  
+*/
+
+"broken clouds" = "Облачно";
+"clear sky" = "Ясно";
+"few clouds" = "Преимущественно ясно";
+"light rain" = "Моросящий дождь";
+"moderate rain" = "Дождь";
+"overcast clouds" = "Пасмурно";
+"scattered clouds" = "Рассеянные облака";
+
+"Humidity:" = "Влажнсоть:";
+"Wind speed:" = "Скорость ветра:";
+"m/s" = "м/с";
+
+"Search" = "Найти";
+"Search city" = "Найти город";
+"textfieldTitle" = "Город";
+"Dismiss" = "Отмена";

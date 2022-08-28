@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Weather app
+
+  Created by Ernest Mihasenko on 24.08.22.
+  
+*/
+
+"broken clouds" = "broken clouds";
+"clear sky" = "clear sky";
+"few clouds" = "few clouds";
+"light rain" = "light rain";
+"moderate rain" = "moderate rain";
+"overcast clouds" = "overcast clouds";
+"scattered clouds" = "scattered clouds";
+
+"Humidity:" = "Humidity:";
+"Wind speed" = "Wind speed:";
+"m/s" = "m/s";
+
+"Search" = "Search";
+"Search city" = "Search city";
+"textfieldTitle" = "City";
+"Dismiss" = "Dismiss";
+
